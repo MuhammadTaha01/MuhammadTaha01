@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadtaha01" alt="muhammadtaha01" /></a> </p>
 
-- 🌱 I’m currently learning **AWS & ML/AI**
+- 🌱 I’m currently learning **AWS & ML**
 
 - 👯 I’m looking to collaborate on **frontend + backend projects**
 
